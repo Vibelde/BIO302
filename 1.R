@@ -1,4 +1,3 @@
 library(tidyverse)
-mtcars -> vroom
-ggplot(vroom, 
-       )
+mtcars -> car_data |>
+  ggplot()
